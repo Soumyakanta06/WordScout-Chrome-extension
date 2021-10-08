@@ -70,12 +70,13 @@ div.style.height = "auto";
 div.style.background = "linear-gradient(to left, #ffb6c0, #f6b7cd, #eabad8, #dcbddf, #cec0e2, #c6c2e5, #bec3e6, #b6c5e7, #aec7ec, #a4c9f1, #98cbf5, #8acdf8)";
 div.style.color = "black";
 div.style.opacity = "0.98";
+div.style.boxShadow = "0 3px 15px #3a3939ed";
 // div.innerHTML = "Hello";
 div.style.position = "fixed";
 div.style.right = "10px";
 div.style.top = "300px";
 div.style.padding = "15px";
-div.style.borderRadius = "10px";
+div.style.borderRadius = "8px";
 div.style.zIndex = "999";
 div.style.transform= "translateY(-20%)";
 
