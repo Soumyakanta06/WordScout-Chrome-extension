@@ -2,7 +2,6 @@
 
 document.addEventListener("selectionchange",()=>{
     
-    
     document.getSelection.cursor = "pointer";
     console.log(document.getSelection().toString());
     let word = document.getSelection().toString();
